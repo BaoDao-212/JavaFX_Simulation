@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/application/Arrow.java=UTF-8
+encoding//src/application/BFS.java=UTF-8
+encoding//src/application/CanvasController.java=UTF-8
+encoding//src/application/DefineGraph.java=UTF-8
+encoding//src/application/Dijkstra.java=UTF-8
+encoding//src/application/Edge.java=UTF-8
+encoding//src/application/MST.java=UTF-8
+encoding//src/application/Node.java=UTF-8
+encoding//src/application/RightClickMenu.java=UTF-8
+encoding//src/application/TopSort.java=UTF-8
