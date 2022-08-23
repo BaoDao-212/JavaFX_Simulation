@@ -12,7 +12,7 @@ public class NodeFX extends Circle {
 	Label distance;
 	Label id = new Label();
 	boolean isSelected = false;
-
+	
 	public NodeFX(double x, double y, double rad, String name) {
 		super(x, y, rad);
 		distance = new Label("Dist. : INFINITY");

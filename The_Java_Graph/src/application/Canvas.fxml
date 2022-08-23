@@ -53,7 +53,7 @@
                            <graphic>
                               <ImageView fitHeight="40.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\clear.png" />
+                                    <Image url="image\clear.png" />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -68,7 +68,7 @@
                            <graphic>
                               <ImageView fitHeight="40.0" fitWidth="40.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\recycle.png" />
+                                    <Image url="image\recycle.png" />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -80,7 +80,7 @@
                            <graphic>
                               <ImageView fx:id="canvasBack" fitHeight="41.0" fitWidth="46.0" pickOnBounds="true">
                                  <image>
-                                    <Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\hiBack.png" />
+                                    <Image url="image\hiBack.png" />
                                  </image>
                               </ImageView>
                            </graphic>
@@ -198,7 +198,7 @@
                      <graphic>
                         <ImageView fx:id="playPauseImage" fitHeight="50.0" fitWidth="50.0" pickOnBounds="true" preserveRatio="true">
                            <image>
-                              <Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\pause-button.png" />
+                              <Image url="image\pause-button.png" />
                            </image>
                         </ImageView>
                      </graphic>
@@ -209,7 +209,7 @@
                            <graphic>
                               <ImageView fitHeight="51.0" fitWidth="52.0" pickOnBounds="true" preserveRatio="true">
                                  <image>
-                                    <Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\time.png" />
+                                    <Image url="image\time.png" />
                                  </image>
                               </ImageView>
                            </graphic>

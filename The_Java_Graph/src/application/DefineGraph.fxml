@@ -58,7 +58,7 @@
 			<graphic>
 				<ImageView fitHeight="55.0" fitWidth="53.0" pickOnBounds="true" preserveRatio="true">
 					<image>
-						<Image url="C:\Users\84389\eclipse-workspace\The_Java_Graph\src\image\hiNext.png" />
+						<Image url="image\hiNext.png" />
 					</image>
 				</ImageView>
 			</graphic>
